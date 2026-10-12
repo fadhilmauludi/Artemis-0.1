@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/firms.ts": { "maxDuration": 60 }
+  }
+}
